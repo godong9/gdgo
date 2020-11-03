@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -10,12 +10,13 @@ This repository contains the open-source uptime monitor and status page for [Upp
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/upptime/upptime/issues) as incident reports, [Actions](https://github.com/upptime/upptime/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
-
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [godong9](https://godong9.com) | 🟩 Up | [godong9.yml](https://github.com/godong9/gdgo/commits/master/history/godong9.yml) | <img alt="Response time graph" src="./graphs/godong9.png" height="20"> 527ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodong9%2Fgdgo%2Fmaster%2Fapi%2Fgodong9%2Fuptime.json)
-| [gdgo](https://gdgo.kr) | 🟩 Up | [gdgo.yml](https://github.com/godong9/gdgo/commits/master/history/gdgo.yml) | <img alt="Response time graph" src="./graphs/gdgo.png" height="20"> 1387ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodong9%2Fgdgo%2Fmaster%2Fapi%2Fgdgo%2Fuptime.json)
+
+| URL                            | Status  | History                                                                           | Response Time                                                                | Uptime                                                                                                                                                 |
+| ------------------------------ | ------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [godong9](https://godong9.com) | 🟥 Down | [godong9.yml](https://github.com/godong9/gdgo/commits/master/history/godong9.yml) | <img alt="Response time graph" src="./graphs/godong9.png" height="20"> 263ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodong9%2Fgdgo%2Fmaster%2Fapi%2Fgodong9%2Fuptime.json) |
+| [gdgo](https://gdgo.kr)        | 🟥 Down | [gdgo.yml](https://github.com/godong9/gdgo/commits/master/history/gdgo.yml)       | <img alt="Response time graph" src="./graphs/gdgo.png" height="20"> 693ms    | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgodong9%2Fgdgo%2Fmaster%2Fapi%2Fgdgo%2Fuptime.json)    |
+
 <!--end: status pages-->
 
 [**Visit our status website →**](https://demo.upptime.js.org)
@@ -24,5 +25,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 - Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
-
-
