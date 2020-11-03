@@ -3,16 +3,16 @@
     "name": "godong9",
     "url": "https://godong9.com",
     "slug": "godong9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 527
+    "time": 263
   },
   {
     "name": "gdgo",
     "url": "https://gdgo.kr",
     "slug": "gdgo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1387
+    "time": 693
   }
 ]
