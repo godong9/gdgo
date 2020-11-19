@@ -1,7 +1,7 @@
 - url: https://godong9.com
-- status: up
+- status: down
 - code: 200
-- responseTime: 665
-- lastUpdated: 2020-11-18T23:08:57.533Z
+- responseTime: 646
+- lastUpdated: 2020-11-19T06:51:22.023Z
 - startTime: 2020-11-02T01:17:33.228Z
 - generator: Upptime <https://github.com/upptime/upptime>
