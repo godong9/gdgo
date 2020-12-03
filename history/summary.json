@@ -5,7 +5,15 @@
     "slug": "godong9",
     "status": "up",
     "uptime": "100.00%",
-    "time": 549
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 566,
+    "timeDay": 617,
+    "timeWeek": 604,
+    "timeMonth": 568,
+    "timeYear": 566
   },
   {
     "name": "gdgo",
@@ -13,6 +21,14 @@
     "slug": "gdgo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1152
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1185,
+    "timeDay": 1183,
+    "timeWeek": 1146,
+    "timeMonth": 1180,
+    "timeYear": 1185
   }
 ]
