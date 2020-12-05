@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 656,
-    "timeWeek": 633,
-    "timeMonth": 578,
-    "timeYear": 569
+    "time": 570,
+    "timeDay": 614,
+    "timeWeek": 632,
+    "timeMonth": 583,
+    "timeYear": 570
   },
   {
     "name": "gdgo",
@@ -26,9 +26,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1187,
-    "timeDay": 1238,
-    "timeWeek": 1181,
-    "timeMonth": 1188,
+    "timeDay": 1175,
+    "timeWeek": 1201,
+    "timeMonth": 1189,
     "timeYear": 1187
   }
 ]
