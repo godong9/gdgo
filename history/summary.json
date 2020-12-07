@@ -2,6 +2,7 @@
   {
     "name": "godong9",
     "url": "https://godong9.com",
+    "icon": "https://favicons.githubusercontent.com/godong9.com",
     "slug": "godong9",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 660,
-    "timeWeek": 634,
-    "timeMonth": 590,
-    "timeYear": 572
+    "time": 570,
+    "timeDay": 475,
+    "timeWeek": 617,
+    "timeMonth": 588,
+    "timeYear": 570,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gdgo",
     "url": "https://gdgo.kr",
+    "icon": "https://favicons.githubusercontent.com/gdgo.kr",
     "slug": "gdgo",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 1951,
-    "timeWeek": 1300,
-    "timeMonth": 1221,
-    "timeYear": 1206
+    "time": 1203,
+    "timeDay": 1079,
+    "timeWeek": 1290,
+    "timeMonth": 1218,
+    "timeYear": 1203,
+    "dailyMinutesDown": {}
   }
 ]
