@@ -4,8 +4,6 @@ repo: gdgo # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: godong9
-    url: https://godong9.com
   - name: gdgo
     url: https://gdgo.kr
 
