@@ -4,7 +4,7 @@
     "url": "https://gdgo.kr",
     "icon": "https://favicons.githubusercontent.com/gdgo.kr",
     "slug": "gdgo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 957,
     "timeYear": 1084,
     "dailyMinutesDown": {
+      "2021-07-29": 0,
       "2021-06-10": 40
     }
   }
