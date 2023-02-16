@@ -5,7 +5,7 @@ repo: gdgo # Your Github repository name
 # Add your sites here
 sites:
   - name: gdgo
-    url: https://gdgo.kr
+    url: http://blog.gdgo.kr
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
