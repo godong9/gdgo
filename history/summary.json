@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.gdgo.kr.ico",
     "slug": "gdgo",
     "status": "up",
-    "uptime": "46.60%",
+    "uptime": "46.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.62%",
-    "time": 853,
-    "timeDay": 417,
-    "timeWeek": 781,
-    "timeMonth": 855,
-    "timeYear": 853,
+    "uptimeYear": "61.89%",
+    "time": 851,
+    "timeDay": 460,
+    "timeWeek": 738,
+    "timeMonth": 848,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2023-02-25": 63,
       "2023-02-16": 80,
@@ -155,8 +155,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   }
 ]
