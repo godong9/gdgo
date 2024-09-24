@@ -4,17 +4,19 @@
     "url": "http://blog.gdgo.kr",
     "icon": "https://icons.duckduckgo.com/ip3/blog.gdgo.kr.ico",
     "slug": "gdgo",
-    "status": "up",
-    "uptime": "60.16%",
+    "status": "down",
+    "uptime": "60.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
+    "time": 860,
     "timeDay": 446,
     "timeWeek": 747,
     "timeMonth": 799,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   }
 ]
